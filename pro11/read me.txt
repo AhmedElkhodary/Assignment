@@ -1,0 +1,8 @@
+Write a program to display the following stars pattern.
+                                       *
+                                      ***
+                                     *****
+                                    *******
+                                   *********
+                                  ***********
+any number of lines ;)
